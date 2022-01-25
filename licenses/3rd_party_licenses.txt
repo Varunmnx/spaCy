@@ -44,7 +44,7 @@ scikit-learn
 * Files: scorer.py
 
 The implementation of roc_auc_score() is adapted from scikit-learn, which is
-distributed under the following license:
+distributed under the following License:
 
 New BSD License
 
